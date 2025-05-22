@@ -19,14 +19,14 @@ body {
   min-height: 100vh;
 }
 
-/* Container seperti web */
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-/* Navbar */
+
 .navbar {
   background-color: #AAF1FF;
   padding: 20px 0;
@@ -64,13 +64,12 @@ body {
   border-bottom: 2px solid #0099cc;
 }
 
-/* Hero Section */
 .hero {
   margin-top: 40px;
   border-radius: 16px;
   overflow: hidden;
   position: relative;
-  background-image: url('/nusapenida.jpg'); /* ubah sesuai file kamu */
+  background-image: url('/nusapenida.jpg'); 
   background-size: cover;
   background-position: center;
   height: 500px;
